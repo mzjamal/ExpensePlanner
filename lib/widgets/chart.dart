@@ -27,6 +27,7 @@ class Chart extends StatelessWidget {
 
       // print(DateFormat.E().format(weekDay));
       // print(totalSum);
+      //print (totalSum as it is);
 
       //DateFormat.E will return first letter fo each day...using intl.dart package
       return {
